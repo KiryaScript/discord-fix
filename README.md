@@ -6,3 +6,6 @@
 
 Находим "Blank" и нажимаем Use this template.
 ![image1](https://i.imgur.com/hegS3ZO.png)
+
+# Вставляем в терминал данный код
+curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh  | bash
