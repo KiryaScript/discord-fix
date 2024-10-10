@@ -2,6 +2,8 @@
 
 ## Выключите ***, GoodbyeDPI и другие ускоряторы — они будут конфликтовать.
 ### Шаг 1
+Качаем амнезию (https://github.com/amnezia-vpn/amneziawg-windows-client/releases/download/1.0.0/amneziawg-amd64-1.0.0.msi)
+
 Регистрируемся на Github (если у Вас нет аккаунта) и далее переходим по этой ссылке (https://github.com/codespaces/templates)
 
 Находим "Blank" и нажимаем Use this template.
