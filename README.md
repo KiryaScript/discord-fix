@@ -5,4 +5,4 @@
 Регистрируемся на Github (если у Вас нет аккаунта) и далее переходим по этой ссылке (https://github.com/codespaces/templates)
 
 Находим "Blank" и нажимаем Use this template.
-![Imgur1](https://imgur.com/hegS3ZO)
+![image1](https://i.imgur.com/hegS3ZO.png)
