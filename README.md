@@ -11,7 +11,7 @@
 curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh  | bash
 и жмем Enter.
 
-Через 1-4 минуты Вам предложит скачать конфиг, открываем ссылку в терминале с помощь ctrl+пкм1
+Через 1-4 минуты Вам предложит скачать конфиг, открываем ссылку в терминале с помощь ctrl+лкм
 ![image2](https://i.imgur.com/5wX2e4G.png)
 
 ### Шаг 2
